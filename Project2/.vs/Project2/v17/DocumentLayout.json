@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F47D01-92B5-4071-8306-A9CFD09B2C47}|Project2.vcxproj|C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uC774\uC9C4\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63F47D01-92B5-4071-8306-A9CFD09B2C47}|Project2.vcxproj|solutionrelative:\uC774\uC9C4\uD0D0\uC0C9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F47D01-92B5-4071-8306-A9CFD09B2C47}|Project2.vcxproj|C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uBCD1\uD569\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63F47D01-92B5-4071-8306-A9CFD09B2C47}|Project2.vcxproj|solutionrelative:\uBCD1\uD569\uC815\uB82C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC774\uC9C4\uD0D0\uC0C9.cpp",
+              "DocumentMoniker": "C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uC774\uC9C4\uD0D0\uC0C9.cpp",
+              "RelativeDocumentMoniker": "\uC774\uC9C4\uD0D0\uC0C9.cpp",
+              "ToolTip": "C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uC774\uC9C4\uD0D0\uC0C9.cpp",
+              "RelativeToolTip": "\uC774\uC9C4\uD0D0\uC0C9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T00:45:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uBCD1\uD569\uC815\uB82C.cpp",
+              "DocumentMoniker": "C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uBCD1\uD569\uC815\uB82C.cpp",
+              "RelativeDocumentMoniker": "\uBCD1\uD569\uC815\uB82C.cpp",
+              "ToolTip": "C:\\Users\\618-03\\Documents\\GitHub\\ALG\\Project2\\\uBCD1\uD569\uC815\uB82C.cpp",
+              "RelativeToolTip": "\uBCD1\uD569\uC815\uB82C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T00:20:16.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
